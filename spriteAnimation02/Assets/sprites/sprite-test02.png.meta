@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: b6c754bd663f34084afe5a15f41ff671
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3589598782798899751
+    second: sprite-test02_0
+  - first:
+      213: -2098792434588653880
+    second: sprite-test02_1
+  - first:
+      213: 2378094229586050834
+    second: sprite-test02_2
+  - first:
+      213: -4229134630459497776
+    second: sprite-test02_3
+  - first:
+      213: 6200602002022656744
+    second: sprite-test02_4
+  - first:
+      213: -800742687203066647
+    second: sprite-test02_5
+  - first:
+      213: 343452699508725291
+    second: sprite-test02_6
+  - first:
+      213: 4668326706607996021
+    second: sprite-test02_7
+  - first:
+      213: -7719767097228553607
+    second: sprite-test02_8
+  - first:
+      213: 1846052013528851415
+    second: sprite-test02_9
+  - first:
+      213: 5995438383550641409
+    second: sprite-test02_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-test02_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 801
+        width: 835
+        height: 367
+      alignment: 9
+      pivot: {x: 0.62500256, y: 0.32568642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5d811fcee2f2ec0800000000000000
+      internalID: -3589598782798899751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-test02_1
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1017
+        width: 187
+        height: 149
+      alignment: 9
+      pivot: {x: 0.92312574, y: 0.35311747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6e01f86679fd2e0800000000000000
+      internalID: -2098792434588653880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-test02_2
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 804
+        width: 187
+        height: 149
+      alignment: 9
+      pivot: {x: 0.085876465, y: 0.35311747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ff1e42a10b00120800000000000000
+      internalID: 2378094229586050834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-test02_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 260
+        width: 576
+        height: 497
+      alignment: 9
+      pivot: {x: 0.52338195, y: 0.03932334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2a824e5781f45c0800000000000000
+      internalID: -4229134630459497776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-test02_4
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 653
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eae22c2ba6fc0650800000000000000
+      internalID: 6200602002022656744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-test02_5
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 628
+        width: 262
+        height: 129
+      alignment: 9
+      pivot: {x: 0.89196056, y: 0.68270564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecf4ccb4c033e4f0800000000000000
+      internalID: -800742687203066647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-test02_6
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 468
+        width: 262
+        height: 129
+      alignment: 9
+      pivot: {x: 0.133742, y: 0.6957563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26dd57196034c400800000000000000
+      internalID: 343452699508725291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-test02_7
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 493
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cb6d2e76a39c040800000000000000
+      internalID: 4668326706607996021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-test02_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 31
+        width: 118
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5428009, y: 0.90584433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97291f4e9b0edd490800000000000000
+      internalID: -7719767097228553607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-test02_9
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 31
+        width: 118
+        height: 224
+      alignment: 9
+      pivot: {x: 0.45719883, y: 0.87578183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d32847868e7e9910800000000000000
+      internalID: 1846052013528851415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-test02_10
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 23
+        width: 353
+        height: 369
+      alignment: 9
+      pivot: {x: 0.5286146, y: 0.26275864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1053744d173143350800000000000000
+      internalID: 5995438383550641409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
